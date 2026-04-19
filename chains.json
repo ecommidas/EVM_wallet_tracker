@@ -1,0 +1,12 @@
+{
+  "_comment": "Thêm chain tuỳ chỉnh ở đây. Các chain mặc định đã có trong tracker.py",
+  "_example": {
+    "zksync": {
+      "name": "zkSync Era",
+      "symbol": "ETH",
+      "icon": "⚡",
+      "api": "https://block-explorer-api.mainnet.zksync.io/api",
+      "explorer": "https://explorer.zksync.io"
+    }
+  }
+}
